@@ -1,0 +1,9 @@
+0. 3*3 to 9*9
+1. 2d array
+2. void greet(void)
+{
+    clear();
+    printf("WELCOME TO GAME OF FIFTEEN\n");
+    usleep(2000000);
+}
+3. won() to check if player has won or not
