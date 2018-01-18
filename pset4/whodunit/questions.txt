@@ -1,0 +1,26 @@
+1.  it's a header file in c introduced in 1999 to write code in more portable way.
+2.  uint8_t=unsigned int of 8 bits.
+    uint32_t=unsigned int of 32 bits.
+    int32_t=signed int of 32 bits.
+    uint16_t=unsigned in of 16 bits.
+3.  BYTE=1 byte
+    DWORD=4 byte
+    LONG=4 byte
+    WORD=2 byte
+4.  Hex:    0x424d
+    ASCII:  BM (bitmap!)
+    Decimal:    16973
+5.  bfSize
+    The size, in bytes, of the bitmap file.
+    biSize
+    The number of bytes required by the structure.
+6.  If biHeight is negative, the bitmap is a top-down DIB and its origin is the upper-left corner.
+7.  biBitCount
+8.  If it can't find the file, it will.
+
+9.  Because it specifies how many elements you want to read, and we're always
+    reading a struct so we only need 1 struct.
+
+10. 3
+11. moves to specific location in a file.
+12. whodunit.
